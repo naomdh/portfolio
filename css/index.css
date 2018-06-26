@@ -3,7 +3,21 @@
 }
 
 .rounded {
-	border-radius: 15px;
+	border-radius: 10px;
+}
+
+#padding {
+	padding: 10px;
+	margin-bottom: 10px;
+	padding-left:0px;
+}
+
+#pagepad {
+	padding:20px;
+}
+
+body {
+	font-family: 'Roboto', serif;
 }
 
 a  {
@@ -19,13 +33,13 @@ h2	{
 }
 
 a:link {
-    color: red;
+    color: blue;
 }
 
 a:visited {
-    color: green;
+    color: purple;
 }
 
 a:hover {
-    color: hotpink;
+    color: grey;
 }
