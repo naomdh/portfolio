@@ -7,7 +7,7 @@
 }
 
 a  {
-	text-decoration: underline;
+	text-decoration: none;
 }
 
 h1	{
@@ -16,4 +16,16 @@ h1	{
 
 h2	{
 	color: grey;
+}
+
+a:link {
+    color: red;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color: hotpink;
 }
