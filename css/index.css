@@ -1,0 +1,19 @@
+#square {
+	margin:5px;
+}
+
+.rounded {
+	border-radius: 15px;
+}
+
+a  {
+	text-decoration: underline;
+}
+
+h1	{
+	font-size: 50px;
+}
+
+h2	{
+	color: grey;
+}
