@@ -1,45 +1,52 @@
-#square {
-	margin:5px;
-}
+	#square {
 
-.rounded {
-	border-radius: 10px;
-}
+		margin:5px;
+	}
 
-#padding {
-	padding: 10px;
-	margin-bottom: 10px;
-	padding-left:0px;
-}
+	.rounded {
 
-#pagepad {
-	padding:20px;
-}
+		border-radius: 10px;
+	}
 
-body {
-	font-family: 'Roboto', serif;
-}
+	#navpadding {
 
-a  {
-	text-decoration: none;
-}
+		padding: 10px;
+		margin-bottom: 10px;
+		padding-left:0px;
+	}
 
-h1	{
-	font-size: 50px;
-}
+	body {
 
-h2	{
-	color: grey;
-}
+		font-family: 'Roboto', serif;
+		padding:20px;
+	}
 
-a:link {
-    color: blue;
-}
+	h1	{
 
-a:visited {
-    color: purple;
-}
+		font-size: 50px;
+	}
 
-a:hover {
-    color: grey;
-}
+	h2	{
+
+		color: grey;
+	}
+
+	a  {
+
+		text-decoration: none;
+	}
+
+	a:link {
+
+	    color: blue;
+	}
+
+	a:visited {
+
+	    color: purple;
+	}
+
+	a:hover {
+		
+	    color: grey;
+	}
